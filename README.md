@@ -5,5 +5,6 @@
 
 各年份的数据地址规则 `http://bastengao.coding.me/chinese-holidays-data/data/{year}.json`
 
+* [2018](http://bastengao.coding.me/chinese-holidays-data/data/2018.json)
 * [2017](http://bastengao.coding.me/chinese-holidays-data/data/2017.json)
 * [2016](http://bastengao.coding.me/chinese-holidays-data/data/2016.json)
