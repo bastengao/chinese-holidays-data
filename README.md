@@ -1,15 +1,15 @@
 # 提供具有中国特色的休假安排或者工作日数据
 
-[data/index.json](http://bastengao.coding.me/chinese-holidays-data/data/index.json) 提供索引数据
+[data/index.json](http://chinese-holidays-data.basten.me/data/index.json) 提供索引数据
 
-各年份的数据地址规则 `http://bastengao.coding.me/chinese-holidays-data/data/{year}.json`
+各年份的数据地址规则 `http://chinese-holidays-data.basten.me/data/{year}.json`
 
-* [2020](http://bastengao.coding.me/chinese-holidays-data/data/2019.json)
-* [2019](http://bastengao.coding.me/chinese-holidays-data/data/2019.json)
-* [2019](http://bastengao.coding.me/chinese-holidays-data/data/2019.json)
-* [2018](http://bastengao.coding.me/chinese-holidays-data/data/2018.json)
-* [2017](http://bastengao.coding.me/chinese-holidays-data/data/2017.json)
-* [2016](http://bastengao.coding.me/chinese-holidays-data/data/2016.json)
+* [2020](http://chinese-holidays-data.basten.me/data/2019.json)
+* [2019](http://chinese-holidays-data.basten.me/data/2019.json)
+* [2019](http://chinese-holidays-data.basten.me/data/2019.json)
+* [2018](http://chinese-holidays-data.basten.me/data/2018.json)
+* [2017](http://chinese-holidays-data.basten.me/data/2017.json)
+* [2016](http://chinese-holidays-data.basten.me/data/2016.json)
 
 数据来源
 
