@@ -4,8 +4,8 @@
 
 各年份的数据地址规则 `http://chinese-holidays-data.basten.me/data/{year}.json`
 
-* [2020](http://chinese-holidays-data.basten.me/data/2019.json)
-* [2019](http://chinese-holidays-data.basten.me/data/2019.json)
+* [2021](http://chinese-holidays-data.basten.me/data/2021.json)
+* [2020](http://chinese-holidays-data.basten.me/data/2020.json)
 * [2019](http://chinese-holidays-data.basten.me/data/2019.json)
 * [2018](http://chinese-holidays-data.basten.me/data/2018.json)
 * [2017](http://chinese-holidays-data.basten.me/data/2017.json)
@@ -13,6 +13,7 @@
 
 数据来源
 
+* [2021 年](http://www.gov.cn/zhengce/content/2020-11/25/content_5564127.htm)
 * [2020 年](http://www.gov.cn/zhengce/content/2019-11/21/content_5454164.htm)
 * [2019 年](http://www.gov.cn/zhengce/content/2018-12/06/content_5346276.htm), [五一假期调整](http://www.gov.cn/zhengce/content/2019-03/22/content_5375877.htm)
 * [2018 年](http://www.gov.cn/zhengce/content/2017-11/30/content_5243579.htm)
