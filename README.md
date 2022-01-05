@@ -21,3 +21,9 @@
 * [2018 年](http://www.gov.cn/zhengce/content/2017-11/30/content_5243579.htm)
 * [2017 年](http://www.gov.cn/zhengce/content/2016-12/01/content_5141603.htm)
 * 2016 年 Unknow
+
+## Libraries
+
+* [chinese-holidays-node](https://github.com/bastengao/chinese-holidays-node)
+* [chinese-holidays-go](https://github.com/bastengao/chinese-holidays-go)
+* [chinese-holidays-ruby](https://github.com/bastengao/chinese-holidays-ruby)
