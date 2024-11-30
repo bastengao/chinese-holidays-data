@@ -4,6 +4,7 @@
 
 各年份的数据地址规则 `http://chinese-holidays-data.basten.me/data/{year}.json`
 
+* [2025](http://chinese-holidays-data.basten.me/data/2025.json)
 * [2024](http://chinese-holidays-data.basten.me/data/2024.json)
 * [2023](http://chinese-holidays-data.basten.me/data/2023.json)
 * [2022](http://chinese-holidays-data.basten.me/data/2022.json)
@@ -16,6 +17,7 @@
 
 数据来源
 
+* [2025 年](https://www.gov.cn/zhengce/content/202411/content_6986382.htm)
 * [2024 年](https://www.gov.cn/yaowen/liebiao/202310/content_6911560.htm)
 * [2022 年](http://www.gov.cn/zhengce/content/2021-10/25/content_5644835.htm)
 * [2021 年](http://www.gov.cn/zhengce/content/2020-11/25/content_5564127.htm)
