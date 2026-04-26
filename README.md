@@ -1,5 +1,31 @@
 # 提供具有中国特色的休假安排或者工作日数据
 
+## 按天查询
+
+直接请求 /data/year/mm-dd.json，例如 /data/2026/01-01.json 
+
+```json
+{
+  "date": "2026-01-01",
+  "type": "holiday",
+  "name": "元旦"
+}
+```
+
+/data/2026/01-04.json
+
+```json
+{
+  "date": "2026-01-04",
+  "type": "workday",
+  "name": "元旦"
+}
+```
+
+如果返回 404，这天还不支持查询。
+
+## 索引
+
 [data/index.json](http://chinese-holidays-data.basten.me/data/index.json) 提供索引数据
 
 各年份的数据地址规则 `http://chinese-holidays-data.basten.me/data/{year}.json`
